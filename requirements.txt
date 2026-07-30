@@ -1,0 +1,2 @@
+# No external Python dependencies are required for the current profile site repository.
+# Add project-specific packages here if the application grows.
